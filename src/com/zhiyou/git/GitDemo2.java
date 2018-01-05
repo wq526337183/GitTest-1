@@ -10,6 +10,6 @@ package com.zhiyou.git;
 public class GitDemo2 {
 
 	public static void main(String[] args) {
-		System.out.println("git02");
+		System.out.println("git03");
 	}
 }
